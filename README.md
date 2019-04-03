@@ -19,20 +19,24 @@ Thread-4: Calculate the number of courses from SOC
 Thread-5: Display the information of STIW3054 (Bil, Code, Course, date and time).
 
 3. Result/Output
-a) https://github.com/slyee96/253290-STIW3054-A182-A2/blob/master/Output1.PNG
+a)
+![](https://github.com/slyee96/253290-STIW3054-A182-A2/blob/master/Output1.PNG)
 
-b) https://github.com/slyee96/253290-STIW3054-A182-A2/blob/master/Output2.PNG
+b)
+![](https://github.com/slyee96/253290-STIW3054-A182-A2/blob/master/Output2.PNG)
 
-c) https://github.com/slyee96/253290-STIW3054-A182-A2/blob/master/Output3.PNG
-      
+c)
+![](https://github.com/slyee96/253290-STIW3054-A182-A2/blob/master/Output3.PNG)
+
 
 4. UML Class Diagram
-https://github.com/slyee96/253290-STIW3054-A182-A2/blob/master/253290%20Ass2%20UML.png
+![](https://github.com/slyee96/253290-STIW3054-A182-A2/blob/master/253290%20Ass2%20UML.png)
 
 5. YouTube Presentation
 https://youtu.be/75R_-_AZYnM
 
 6. References
+
 a) Use Apache PDFBox to parse text from pdf file. https://stackoverflow.com/questions/51235869/get-line-of-pdf-file-after-a-specific-line
 
 b) ProgrammingKnowledge2 (March 2016). Maven Tutorial - How To Create a Maven Project using Eclipse IDE Retrieved From https://www.youtube.com/watch?v=sNEcpw8LPpo
